@@ -1,5 +1,6 @@
 ruby
 nodejs
 jenkin
-quilbot
-lollipop
+docker
+terraform
+ansible
